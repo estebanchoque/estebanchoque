@@ -1,8 +1,12 @@
-# ¡Hola! Soy Esteban :wave:
+![GitHub Banner](/images/Banner/GitHub-Banner.png)
 
-## ¡Bienvenidos a mi espacio de trabajo!
+# ¡Bienvenidos a mi espacio de trabajo! :wave:
 
-Soy **Web Full-Stack Developer** :technologist:. Me autodenomino una persona proactiva y autodidacta. Me gustan los desafíos y busco perfeccionarme día a día en este hermoso mundo TI.
+Soy **Full-Stack Web Developer** :technologist:
+<br/>
+Me autodenomino una persona proactiva y autodidacta. Me gustan los desafíos y busco perfeccionarme día a día en este hermoso mundo TI.
+
+<br/>
 
 ![Esteban Choque's GitHub stats](https://github-readme-stats.vercel.app/api?username=estebanchoque)
 
@@ -31,7 +35,7 @@ Soy **Web Full-Stack Developer** :technologist:. Me autodenomino una persona pro
 
 <br/>
 
-### Estos son algunos de los proyectos en los que he estado trabajando:
+### :mechanical_arm: Estos son algunos de mis proyectos:
 
 ## Pokémon App :zap:
 
@@ -52,3 +56,12 @@ Soy **Web Full-Stack Developer** :technologist:. Me autodenomino una persona pro
 * Express.js
 * PostgreSQL
 * Sequelize
+
+<br/>
+
+## ¡Pongámonos en contacto!
+
+<br/>
+<a href="https://www.linkedin.com/in/esteban-choque-dev" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin logo" height="50" >
+<a href="mailto:choqueestebanjoaquin@gmail.com" ><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Logo" height="50" >
+<a href="https://wa.me/5492281400028?text=%c2%a1Hola!+Soy+Esteban.+%c2%bfEn+qu%c3%a9+puedo+ayudarte%3f" ><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WhatsApp Logo" height="50" >
