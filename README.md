@@ -1,4 +1,4 @@
-![GitHub Banner](/images/Banner/GitHub-Banner.png)
+![GitHub Banner](https://github.com/estebanchoque/estebanchoque/blob/main/images/Banner/GitHub-Banner.png?raw=true)
 
 # ¡Bienvenidos a mi espacio de trabajo! :wave:
 
